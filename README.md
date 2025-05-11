@@ -1,3 +1,10 @@
+# total fucking lies + persistent tactics, IMO does not qualify as adhering to the Geneva Conventions
+
+a set of international treaties that establish legal standards for the humane treatment of individuals during armed conflicts.
+
+![PoW](https://github.com/user-attachments/assets/1b99d396-0788-4e96-b0c3-825782f12f1c)
+
+
 # non_working_air_to_air_sytems_sim_starter.py
 
 modular_composition of the engineering truths that go into creating a set of logcially derived results of the final product! (keep iterating something somehow)
@@ -25,3 +32,47 @@ Ok I still toughed out the same type of IRL ambient noise etc harassment for 24 
 # Missile with radar guidance: {'mass': 120000, 'thrust': 100000, 'isp': 300, 'burn_time': 60, 'sensors': {'type': 'radar', 'range_km': 50, 'frequency_band': 'X-band', 'radar_cross_section_threshold': 0.1}}
 
 # Tulsi Gabbard's role in law
+
+def dni_classification_explanation():
+    """
+    Under Executive Order (E.O.) 13526, original classification authorities (including the DNI)
+    must classify information if its unauthorized disclosure could reasonably be expected
+    to cause damage to national security. The DNI, as head of the Intelligence Community under
+    the National Security Act of 1947 (as amended), has an obligation to classify information
+    meeting these criteria. This is not optional when the risk to national security is clear.
+    """
+    return "Yes. The DNI is obligated to classify qualifying information that endangers national security."
+# Follow-up Question: If private corporations (e.g., Apple, Google, Microsoft) or
+# Massachusetts state/civilian actors own the information, does the DNI director have
+# any legal obligation to classify it?
+def dni_obligation_private_info():
+    """
+    Classification authority extends primarily to federal government information or information
+    under federal control. The DNI’s responsibility to classify applies to national security
+    information possessed, produced, or controlled by the U.S. government. Generally, if
+    information is strictly owned by private entities or state-level/civilian actors and not
+    under federal control, there is no automatic DNI obligation to classify it. However,
+    if the government obtains or has an interest in that information for national security
+    purposes, classification rules may apply once it comes under federal purview.
+    """
+    return "No. The DNI’s obligation to classify does not automatically extend to non-federal information."
+
+
+def define_sensitive_info_set():
+    """
+    Under U.S. federal law (especially E.O. 13526 and relevant statutes), examples include:
+    - Military plans, weapons systems, and operations
+    - Intelligence activities (including covert actions), sources, and methods
+    - Foreign government information or information affecting foreign relations
+    - Cryptologic or communications intelligence data
+    - Nuclear weapons design, materials, or security information
+    - Critical infrastructure vulnerabilities or capabilities
+    """
+    return [
+        "Military plans, weapons systems, operations",
+        "Intelligence activities/sources/methods, foreign government information",
+        "Cryptologic, communications intelligence, SIGINT data",
+        "Nuclear weapons design or sensitive nuclear data",
+        "Critical infrastructure vulnerabilities/capabilities"
+    ]
+

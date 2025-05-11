@@ -1,6 +1,6 @@
 # total fucking lies + persistent tactics, IMO does not qualify as adhering to the Geneva Conventions
 
-https://www.dropbox.com/scl/fo/wc7lmmmxj859sait68z9b/ANDwZ_YvZ9uAJISUJbYB4KY?rlkey=m6495jgc89au6nrqs37pm4uuo&st=v8cfcybn&dl=0
+https://www.dropbox.com/scl/fo/wc7lmmmxj859sait68z9b/ANDwZ_YvZ9uAJISUJbYB4KY?rlkey=m6495jgc89au6nrqs37pm4uuo&st=v8cfcybn&dl=0 maybe i have a video that some people may believe, after 7 consistent years of this imposition; are you going to hint that I deserve it or tell me to my face? Or impose it into my face anyways.
 
 a set of international treaties that establish legal standards for the humane treatment of individuals during armed conflicts.
 

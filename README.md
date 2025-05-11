@@ -23,3 +23,5 @@ Now you've gloated quite a bit, and your "oh you think that adderall would help 
 Ok I still toughed out the same type of IRL ambient noise etc harassment for 24 hours just to get here.. 
 
 # Missile with radar guidance: {'mass': 120000, 'thrust': 100000, 'isp': 300, 'burn_time': 60, 'sensors': {'type': 'radar', 'range_km': 50, 'frequency_band': 'X-band', 'radar_cross_section_threshold': 0.1}}
+
+# Tulsi Gabbard's role in law

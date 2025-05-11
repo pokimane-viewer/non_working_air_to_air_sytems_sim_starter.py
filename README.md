@@ -1,3 +1,7 @@
+# whether you like o admit it or not, you attacked first and attempted to force your real, ability to impose yourselves through SOFTWARE penetration gets data (there's no analog system , even ARKit) that maps biological systems that well (almost certain)
+
+I'm so sick of the lies, and I'm praying I'll be able to play the audio of my choice rather than the ambient noise resulting from your penetration, and use active noise cancellation of some quality on top, excpt a headphone cable was suspiciously missing in that headphone case, and I swear my passport was also missing earlier today because I did not, and I'm not sure whether I'd be able to if I tried, keep eyes on my passport 100% of the time, then I sweer it appeared back on my bed just now with stuff sorted.. 
+
 # total fucking lies + persistent tactics, IMO does not qualify as adhering to the Geneva Conventions
 
 https://www.dropbox.com/scl/fo/wc7lmmmxj859sait68z9b/ANDwZ_YvZ9uAJISUJbYB4KY?rlkey=m6495jgc89au6nrqs37pm4uuo&st=v8cfcybn&dl=0 maybe i have a video that some people may believe, after 7 consistent years of this imposition; are you going to hint that I deserve it or tell me to my face? Or impose it into my face anyways.

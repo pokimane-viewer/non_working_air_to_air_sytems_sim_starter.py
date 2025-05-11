@@ -1,5 +1,7 @@
 # total fucking lies + persistent tactics, IMO does not qualify as adhering to the Geneva Conventions
 
+https://www.dropbox.com/scl/fo/wc7lmmmxj859sait68z9b/ANDwZ_YvZ9uAJISUJbYB4KY?rlkey=m6495jgc89au6nrqs37pm4uuo&st=v8cfcybn&dl=0
+
 a set of international treaties that establish legal standards for the humane treatment of individuals during armed conflicts.
 
 ![PoW](https://github.com/user-attachments/assets/1b99d396-0788-4e96-b0c3-825782f12f1c)
